@@ -14,7 +14,7 @@ col4, col5, col6 = st.columns(3)
 col7, col8 = st.columns(2)
 
 # <=== Encoded Values for Features ===>
-item_types = {'Fruits apples and Vegetables':0, 'Snack Foods':1, 'Household':2,'Frozen Foods':3, 'Dairy':4, 'Canned':5, 
+item_types = {'Fruits and Vegetables':0, 'Snack Foods':1, 'Household':2,'Frozen Foods':3, 'Dairy':4, 'Canned':5, 
               'Baking Goods':6, 'Health and Hygiene':7, 'Soft Drinks':8, 'Meat':9, 'Breads':10, 'Hard Drinks':11, 
               'Others':12, 'Starchy Foods':13, 'Breakfast':14, 'Seafood':15}
 
